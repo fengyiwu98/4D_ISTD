@@ -1,9 +1,4 @@
 # Code 4D ISTD
-Official Implementation for 4D Infrared Small Target Detection
-
-
-# Code-SRWS
-
 [![](https://img.shields.io/badge/building-pass-green.svg?style=flat-square)](https://github.com/fengyiwu98/4D_ISTD)
 ![](https://img.shields.io/badge/language-Matlab-blue.svg?style=flat-square)
 [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
