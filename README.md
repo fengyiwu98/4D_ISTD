@@ -110,7 +110,7 @@ Infrared small target detection (ISTD) is vital for civil and military applicati
 </center> 
 
 
-For more information, please refer to our [paper](https://www.sciencedirect.com/science/article/pii/S0925231220313461)
+For more information, please refer to our [paper](https://www.sciencedirect.com/science/article/pii/S0925231220313461).
 
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
